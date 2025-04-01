@@ -176,6 +176,7 @@ function App() {
           setTurn(1); 
           setShow(false); 
           setStart(false); 
+          setWin(-1);
           setSame(0); 
         }}
       >
